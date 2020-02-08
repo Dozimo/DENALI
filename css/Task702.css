@@ -1,0 +1,203 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif; 
+    margin: 0px;
+    border-color: darkslategray; 
+    background-color: rgba(211, 211, 211, 0.637);
+}
+
+.navg{
+    background-color: white;
+    color: black;
+    padding: 8px 200px   
+    
+}
+
+.menu{
+    float: right;
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgba(128, 128, 128, 0.534);
+    font-size: 12px;
+    margin: 0px 10px;
+    
+}
+
+.menu a:hover{
+    color: black;
+    font-weight: bold;
+}
+
+.header{
+    text-decoration: none;
+    color:black;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+
+.header:hover{
+    text-decoration: none;
+    color:white;
+    background-color:black;border-color:black;
+    text-align:center;
+    border:1px solid transparent;
+    border-radius:.25rem;
+   
+  }
+
+.content{
+    padding-left: 50px;
+    display: inline-block;
+}
+
+.side-content{
+    background-color: whitesmoke;
+    width: 175px;
+    font-size: 10px;
+    padding: 12px 12px 12px 12px;
+    display: inline-block;
+    margin: 30px 20px 20px 150px;
+}
+
+#img-sd{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    margin: 5px 15px;
+}
+
+.ftpost-hd{
+    font-size: small;
+    font-weight: bold;
+}
+.side-wrt{
+    font-weight: bold;
+}
+
+.ft-posts p{
+    color: rgba(128, 128, 128, 0.534);
+}
+
+
+.main-content{
+    width: 750px;
+    float: right;    
+    padding: 20px 20px 20px 20px;
+}
+
+.first-content{
+    width: 700px;
+    height: 200px;
+    font-size: 12px;
+    background-color: whitesmoke;
+    margin: 10px 40px 30px 20px;
+    padding: 20px 20px 20px 20px;
+}
+
+.second-content{
+    width: 700px;
+    height: 200px;
+    font-size: 12px;
+    background-color: whitesmoke;
+    margin: 30px 40px 30px 20px;
+    padding: 20px 20px 20px 20px;
+}
+
+.third-content{
+    width: 700px;
+    height: 200px;
+    font-size: 12px;
+    background-color: whitesmoke;
+    margin: 30px 40px 30px 20px;
+    padding: 20px 20px 20px 20px;
+}
+
+.fourth-content{
+    width: 700px;
+    height: 200px;
+    font-size: 12px;
+    background-color: whitesmoke;
+    margin: 30px 40px 30px 20px;
+    padding: 20px 20px 20px 20px;
+}
+
+header{
+    font-weight: bold;
+    
+}
+
+#img-main{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+
+.ft-icons{
+    display: inline-flex;
+    filter: grayscale(100);
+}
+
+footer{
+    color: rgba(128, 128, 128, 0.534);
+  
+}
+
+#sd-icons{
+    width: 20px;
+    height: 20px;
+    margin: 0px 5px;
+  
+}
+
+.fstct-wrt{
+    float: right;
+    width: 500px;
+    
+}
+
+.secct-wrt{
+    float: right;
+    width: 500px;  
+}
+
+.thdct-wrt{
+    float: right;
+    width: 500px;  
+}
+
+.frtct-wrt{
+    float: right;
+    width: 500px;  
+}
+
+.topic{
+    font-size: 20px;
+}
+
+.end-notes{
+    text-decoration: underline;
+    
+}
+
+.fstct-wrt p{ 
+    color: grey;
+}
+
+.secct-wrt p{ 
+    color: grey;
+}
+
+.thdct-wrt p{ 
+    color: grey;
+}
+
+.frtct-wrt p{ 
+    color: grey;
+}
+
