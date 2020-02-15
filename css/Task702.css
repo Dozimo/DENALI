@@ -140,7 +140,7 @@ header{
 
 .ft-icons{
     display: inline-flex;
-    filter: grayscale(100);
+    
 }
 
 footer{
@@ -152,7 +152,14 @@ footer{
     width: 20px;
     height: 20px;
     margin: 0px 5px;
+    filter: grayscale(100);
   
+}
+
+#sd-icons:hover{
+    width: 25px;
+    height: 25px;
+    filter: none;
 }
 
 .fstct-wrt{
